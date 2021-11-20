@@ -1,0 +1,7 @@
+* {padding: 0;margin: 0;border: 0;}
+
+.header {padding:15px 20px;background-color: #229954;border: 1px solid #229954;}
+.title {font-family: 'Times New Roman', Times, serif;color:#EBEDF0;}
+
+#idOnline {color:chartreuse}
+#idOffline {color:red}
